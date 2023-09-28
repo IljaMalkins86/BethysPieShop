@@ -1,0 +1,12 @@
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\BethysPieShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\BethysPieShop.Domain.AssemblyInfoInputs.cache
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\BethysPieShop.Domain.AssemblyInfo.cs
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\BethysPieShop.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\BethysPieShop\BethysPieShop.Domain\bin\Debug\net6.0\BethysPieShop.Domain.deps.json
+C:\Projects\BethysPieShop\BethysPieShop.Domain\bin\Debug\net6.0\BethysPieShop.Domain.dll
+C:\Projects\BethysPieShop\BethysPieShop.Domain\bin\Debug\net6.0\ref\BethysPieShop.Domain.dll
+C:\Projects\BethysPieShop\BethysPieShop.Domain\bin\Debug\net6.0\BethysPieShop.Domain.pdb
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\BethysPieShop.Domain.dll
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\ref\BethysPieShop.Domain.dll
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\BethysPieShop.Domain.pdb
+C:\Projects\BethysPieShop\BethysPieShop.Domain\obj\Debug\net6.0\BethysPieShop.Domain.csproj.AssemblyReference.cache

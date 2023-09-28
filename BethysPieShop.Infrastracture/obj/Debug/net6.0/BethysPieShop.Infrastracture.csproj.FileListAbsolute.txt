@@ -1,0 +1,15 @@
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.csproj.AssemblyReference.cache
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.AssemblyInfoInputs.cache
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.AssemblyInfo.cs
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\bin\Debug\net6.0\BethysPieShop.Infrastracture.deps.json
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\bin\Debug\net6.0\BethysPieShop.Infrastracture.dll
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\bin\Debug\net6.0\ref\BethysPieShop.Infrastracture.dll
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\bin\Debug\net6.0\BethysPieShop.Infrastracture.pdb
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\bin\Debug\net6.0\BethysPieShop.Domain.dll
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\bin\Debug\net6.0\BethysPieShop.Domain.pdb
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.csproj.CopyComplete
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.dll
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\ref\BethysPieShop.Infrastracture.dll
+C:\Projects\BethysPieShop\BethysPieShop.Infrastracture\obj\Debug\net6.0\BethysPieShop.Infrastracture.pdb

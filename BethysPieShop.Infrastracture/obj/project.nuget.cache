@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Jz/mNumkpxHCsd7zCJgk1w/oGvtzN6WISfEjui3itYmi3w7nAAo8cTeSecyd8ydcHbsgxNFvz+6o3mCthGfvg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\BethysPieShop\\BethysPieShop.Infrastracture\\BethysPieShop.Infrastracture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iljam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

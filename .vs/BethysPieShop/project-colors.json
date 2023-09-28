@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d5e18f5-ad7c-42b8-b0fb-c7c354458d5d": {
+      "ProjectGuid": "4d5e18f5-ad7c-42b8-b0fb-c7c354458d5d",
+      "DisplayName": "BethysPieShop",
+      "ColorIndex": 0
+    },
+    "2a97b234-4883-47bf-9e4b-7a27b9598679": {
+      "ProjectGuid": "2a97b234-4883-47bf-9e4b-7a27b9598679",
+      "DisplayName": "BethysPieShop.Infrastracture",
+      "ColorIndex": 1
+    },
+    "b7919c18-f130-4c2f-9f8f-8bc79deaf60b": {
+      "ProjectGuid": "b7919c18-f130-4c2f-9f8f-8bc79deaf60b",
+      "DisplayName": "BethysPieShop.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
